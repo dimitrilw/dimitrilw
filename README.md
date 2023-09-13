@@ -19,7 +19,7 @@ more consistent sharing. :blush:
       - [ ] try Protobuf field-masking like
             [what Netflix does](https://bit.ly/netflix-protobuf-field-masking)
     - [ ] make a CLI using [clap](https://github.com/clap-rs/clap) (command line arg parser)
-    - [ ] embed a full python file in a Rust binary via
+    - [ ] embed a full Python file in a Rust binary via
           [rustpython](https://rustpython.github.io/)
   - [ ] [Wasm](https://webassembly.org/)
 - [ ] Python play-time:
