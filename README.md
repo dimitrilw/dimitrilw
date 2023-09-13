@@ -1,7 +1,13 @@
 # Dimitri LW
 
-Public accountability for my personal projects. ...perhaps listing some things
-here will self-shame into consistent progress. :blush:
+I have an old habit of _never_ publicly sharing code, but keeping all code to a
+close inner-circle of coworkers and peers. This habit comes from legacy
+military training -- old habits die hard. It is not easy to shake something
+that was drilled into you for many years. One day at a time; just one day at a time.
+
+So this list serves as accountability for personal tinkering that I should
+probably just share. Perhaps listing some things here will self-shame into
+more consistent sharing. :blush:
 
 - [ ] Continue growth with:
   - [ ] [Rust](https://www.rust-lang.org/)
