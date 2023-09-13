@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "rust-lang.rust-analyzer",
+    "ms-python.black-formatter",
+    "streetsidesoftware.code-spell-checker",
+    "golang.go",
+    "supertsy5.line-length-checker-vscode",
+    "esbenp.prettier-vscode",
+    "ms-python.python",
+    "jinhyuk.replace-curly-quotes",
+    "1yib.rust-bundle",
+    "dustypomerleau.rust-syntax"
+  ]
+}

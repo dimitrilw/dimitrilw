@@ -1,0 +1,45 @@
+{
+  // cSpell info:
+  // https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
+  "cSpell.ignorePaths": [
+    // repo files
+    ".git"
+  ],
+  "cSpell.words": [
+    // people
+    "Dimitri",
+    "dimitrilw",
+    // repo-related words
+    // extension authors
+    "dustypomerleau",
+    "esbenp",
+    "jinhyuk",
+    "supertsy5",
+    // common code/tech terms & short-hand
+    "bools",
+    "dotfiles",
+    "justfile",
+    "nums",
+    "opensource",
+    "postdeploy",
+    "predeploy",
+    "protobuf",
+    "rgba",
+    // rust terms
+    "clippy",
+    "rustc",
+    "rustup",
+    // rust crates
+    "dioxus",
+    "libflate",
+    "rustpython",
+    "serde",
+    "vergen",
+    // wasm
+    "bindgen",
+    // javascript stuff
+    "gtag",
+    "vuex"
+    // misc other
+  ]
+}
