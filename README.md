@@ -33,3 +33,5 @@ more consistent sharing. :blush:
         [embedded Python interpreter](https://github.com/kluctl/go-embed-python)
 - [ ] finally make a dimitrilw.github.io site
 - [ ] Clean up and publish my dotfiles
+- [ ] Exercism.io
+  - [x] resume Rust track
