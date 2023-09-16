@@ -39,7 +39,8 @@
     "bindgen",
     // javascript stuff
     "gtag",
-    "vuex"
+    "vuex",
     // misc other
+    "exercism"
   ]
 }

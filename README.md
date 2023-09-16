@@ -25,9 +25,11 @@ more consistent sharing. :blush:
     - [ ] embed a full Python file in a Rust binary via
           [rustpython](https://rustpython.github.io/)
   - [ ] [Wasm](https://webassembly.org/)
-- [ ] Python play-time:
-  - [ ] [polars](https://github.com/pola-rs/polars) is written in Rust
-        as a high-performance replacement for Pandas
+  - [ ] make a data-analysis goof-off project using
+        [polars](https://github.com/pola-rs/polars), which is written in Rust
+        as a high-performance replacement for Pandas -- there is also a Python
+        package that wraps it, so you can `pip install polars` and use it in
+        Python
 - [ ] Go play-time:
   - [ ] do something with this
         [embedded Python interpreter](https://github.com/kluctl/go-embed-python)
