@@ -17,7 +17,7 @@ Daily(ish) / Weekly(ish)
 - [Exercism](https://exercism.org/) &
   [my Exercism repo](https://github.com/dimitrilw/exercism)
   ...note: I need to be more consistent about using this repo, not just
-  the in-browser IDE that Exercism provides -- just so easy when I'm
+  the in-browser IDE that Exercism provides -- but it is just so easy when I'm
   on the go and feel like tinkering on the tablet
   - [Rust exercises](https://exercism.org/tracks/rust/exercises?status=available)
   - [Go exercises](https://exercism.org/tracks/go/exercises?status=available)
@@ -59,3 +59,7 @@ Daily(ish) / Weekly(ish)
         AWK, C, C++, CoffeeScript, Common Lisp, Java, JavaScript, Lua,
         Perl, PHP, Python, R, Ruby, Vim script, & Visual Basic (don't judge me)
 - [ ] Clean up and publish my dotfiles
+- [ ] pick one of my past private projects and make it public
+      ...lot of tidying in each one, but just carve out some time,
+      then pick something, and get it done --
+      personal ref: my [portfolio projects](https://appurl.io/5t8zbjCqdt) Obsidian file
