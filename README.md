@@ -10,6 +10,23 @@ So this list serves as accountability for personal tinkering that I should
 probably just share. Perhaps listing some things here will self-shame into
 more consistent sharing. :blush:
 
+## Recurring Activities
+
+Daily(ish) / Weekly(ish)
+
+- [Exercism](https://exercism.org/) &
+  [my Exercism repo](https://github.com/dimitrilw/exercism)
+  ...note: I need to be more consistent about using this repo, not just
+  the in-browser IDE that Exercism provides -- just so easy when I'm
+  on the go and feel like tinkering on the tablet
+  - [Rust exercises](https://exercism.org/tracks/rust/exercises?status=available)
+  - [Go exercises](https://exercism.org/tracks/go/exercises?status=available)
+  - [Bash exercises](https://exercism.org/tracks/bash/exercises?status=available)
+  - [Python exercises](https://exercism.org/tracks/python/exercises?status=available)
+  - [JavaScript exercises](https://exercism.org/tracks/javascript/exercises?status=available)
+- [LeetCode problems](https://leetcode.com/problemset/all/?status=NOT_STARTED)
+- contribute to [One Life repo](https://github.com/avacore1337/OneLife)
+
 ## The List
 
 - [ ] Continue growth with:
@@ -30,10 +47,15 @@ more consistent sharing. :blush:
         as a high-performance replacement for Pandas -- there is also a Python
         package that wraps it, so you can `pip install polars` and use it in
         Python
+- [ ] finally make a dimitrilw.github.io site
 - [ ] Go play-time:
   - [ ] do something with this
         [embedded Python interpreter](https://github.com/kluctl/go-embed-python)
-- [ ] finally make a dimitrilw.github.io site
+- [ ] [Exercism](https://exercism.org/)
+  - [ ] get the dev-container working so I can use the repo when I am on the go
+        and feel like doing a puzzle from my tablet
+  - [ ] after completing a track, then begin refreshing comfort with other
+        languages that I've used to some degree in the past:
+        AWK, C, C++, CoffeeScript, Common Lisp, Java, JavaScript, Lua,
+        Perl, PHP, Python, R, Ruby, Vim script, & Visual Basic (don't judge me)
 - [ ] Clean up and publish my dotfiles
-- [ ] Exercism.io
-  - [x] resume Rust track
