@@ -47,7 +47,10 @@ Daily(ish) / Weekly(ish)
         as a high-performance replacement for Pandas -- there is also a Python
         package that wraps it, so you can `pip install polars` and use it in
         Python
-- [ ] finally make a dimitrilw.github.io site
+- [ ] finally make a dimitrilw.github.io site ...maybe make it in
+      [Zola](https://www.getzola.org/) instead of Hugo/Gatsby/etc,
+      just to have another avenue for tinkering with Rust stuff.
+      Like, I could even create a new Zola theme or something. :thinking:
 - [ ] Go play-time:
   - [ ] do something with this
         [embedded Python interpreter](https://github.com/kluctl/go-embed-python)
