@@ -14,18 +14,14 @@ more consistent sharing. :blush:
 
 Daily(ish) / Weekly(ish)
 
-- [ ] [Exercism](https://exercism.org/) &
-      [my Exercism repo](https://github.com/dimitrilw/exercism)
-      ...note: I need to be more consistent about using this repo, not just
-      the in-browser IDE that Exercism provides -- but it is just so easy when I'm
-      on the go and feel like tinkering on the tablet
-  - [x] [Rust exercises](https://exercism.org/tracks/rust/exercises?status=available)
-  - [ ] [Go exercises](https://exercism.org/tracks/go/exercises?status=available)
-  - [x] [Bash exercises](https://exercism.org/tracks/bash/exercises?status=available)
-  - [ ] [Python exercises](https://exercism.org/tracks/python/exercises?status=available)
-  - [ ] [JavaScript exercises](https://exercism.org/tracks/javascript/exercises?status=available)
-- [x] [LeetCode problems](https://leetcode.com/problemset/all/?status=NOT_STARTED)
-- [ ] contribute to [One Life repo](https://github.com/avacore1337/OneLife)
+- contribute to [One Life repo](https://github.com/avacore1337/OneLife)
+- katas
+  - [LeetCode](https://leetcode.com/problemset/all/?status=NOT_STARTED)
+  - [Exercism](https://exercism.org/) &
+    [my Exercism repo](https://github.com/dimitrilw/exercism)
+    ...note: I need to be more consistent about using this repo, not just
+    the in-browser IDE that Exercism provides -- but it is just so easy when I'm
+    on the go and feel like tinkering on the tablet
 
 ## The List
 

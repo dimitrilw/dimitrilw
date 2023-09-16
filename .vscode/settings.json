@@ -41,6 +41,7 @@
     "gtag",
     "vuex",
     // misc other
-    "exercism"
+    "exercism",
+    "katas"
   ]
 }
