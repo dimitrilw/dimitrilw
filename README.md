@@ -60,10 +60,4 @@ Daily(ish) / Weekly(ish)
 - pick one of my past private projects and make it public
   ...lot of tidying in each one, but just carve out some time,
   then pick something, and get it done --
-  personal ref: my
-  <a href="https://appurl.io/5t8zbjCqdt" target="_blank">portfolio projects</a>
-  Obsidian file
-
-...updated
-
-test: [go](http://stackoverflow.com){:target="\_blank"}
+  personal ref: my [portfolio projects](https://appurl.io/5t8zbjCqdt) Obsidian file
