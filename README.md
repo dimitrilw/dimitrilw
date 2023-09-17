@@ -65,3 +65,5 @@ Daily(ish) / Weekly(ish)
   Obsidian file
 
 ...updated
+
+test: [go](http://stackoverflow.com){:target="\_blank"}
