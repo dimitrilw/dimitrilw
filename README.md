@@ -1,5 +1,3 @@
-# Dimitri LW
-
 I have an old habit of _never_ publicly sharing code, but keeping all code to a
 close inner-circle of coworkers and peers. This habit comes from legacy
 military training -- old habits die hard and I still get a bit edgy
